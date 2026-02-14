@@ -1,10 +1,5 @@
-Perfect 🔥
-Here is your **advanced GitHub-ready README.md**
-(with badges, visuals placeholders, metrics section, and recruiter-friendly formatting)
 
-You can copy-paste this directly into `README.md`.
 
----
 
 # 🚀 Customer Churn Prediction using Artificial Neural Network (ANN)
 
@@ -216,11 +211,3 @@ Give it a ⭐ on GitHub and feel free to fork!
 
 ---
 
-If you want, I can now:
-
-* Create a recruiter-optimized version (strong impact wording)
-* Add LinkedIn-ready project description
-* Create requirements.txt for you
-* Help you deploy it live
-
-Tell me your next step 🚀
